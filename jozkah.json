@@ -1,9 +1,7 @@
 {
 	"name": "Jozkah grenades",
-	"description": "i don't know what to write here", // description, will be shown in menu
-	"update_timestamp": 1606666212, // update timestamp, will be shown in menu
-	// optional, will overwrite the locally stored url and cause that url to be re-requested
-	// use this if you wanna change the URL without breaking everyone's configs
+	"description": "i don't know what to write here", 
+	"update_timestamp": 1606666212, 
 	"url": "https://raw.githubusercontent.com/sapphyrus/helper/master/locations/sothatwemaybefree.json",
 	"locations": {
 		"de_mirage": [
