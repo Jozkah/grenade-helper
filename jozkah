@@ -1,0 +1,321 @@
+{
+	"name": "Jozkah grenades",
+	"description": "i don't know what to write here", // description, will be shown in menu
+	"update_timestamp": 1606666212, // update timestamp, will be shown in menu
+	// optional, will overwrite the locally stored url and cause that url to be re-requested
+	// use this if you wanna change the URL without breaking everyone's configs
+	"url": "https://raw.githubusercontent.com/sapphyrus/helper/master/locations/sothatwemaybefree.json",
+	"locations": {
+		"de_mirage": [
+  {
+    "name": ["Palace", "Under Palace"],
+    "weapon": "weapon_molotov",
+    "position": [562.22430419922, -2224.1137695313, -39.96875],
+    "viewangles": [-6.4091744422913, -163.99913024902],
+    "grenade": {
+      "run": 80,
+      "delay": 4
+    }
+  },
+  {
+    "name": ["Ticket", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-879.99328613281, -2264.03125, -171.0789642334],
+    "viewangles": [7.4677395820618, 34.041473388672],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ticket", "Deep Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-879.36328125, -2263.716796875, -171.15670776367],
+    "viewangles": [-12.341564178467, 33.34326171875],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["T Ramp", "Triple Box"],
+    "weapon": "weapon_molotov",
+    "position": [875.96875, -1210.3674316406, -108.96875],
+    "viewangles": [0.87295699119568, -149.80686950684],
+    "grenade": {
+      "run": 9,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Connector", "Ticket"],
+    "weapon": "weapon_molotov",
+    "position": [-608.07904052734, -1007.6967163086, -215.96875],
+    "viewangles": [-24.005319595337, -99.014366149902],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["Jungle", "Deep Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-1119.9820556641, -1527.0539550781, -156.07315063477],
+    "viewangles": [-12.613054275513, -0.93351268768311],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Jungle", "Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [-1119.9873046875, -1527.0540771484, -156.07276916504],
+    "viewangles": [-17.961414337158, -0.84527945518494]
+  },
+  {
+    "name": ["Jungle", "Tetris"],
+    "weapon": "weapon_molotov",
+    "position": [-1119.9572753906, -1527.0528564453, -156.07479858398],
+    "viewangles": [-15.267400741577, -0.91079223155975]
+  },
+  {
+    "name": ["Ticket", "Stairs"],
+    "weapon": "weapon_molotov",
+    "position": [-938.65374755859, -2585.09375, -167.96875],
+    "viewangles": [-21.47163772583, 69.199737548828],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["CT", "A Default"],
+    "weapon": "weapon_molotov",
+    "position": [-1467.798828125, -2221.2937011719, -243.19926452637],
+    "viewangles": [-22.614650726318, -9.7540559768677],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["Connector", "Palace"],
+    "weapon": "weapon_molotov",
+    "position": [-674.173828125, -1295.9182128906, -167.96875],
+    "viewangles": [-16.903190612793, -52.321342468262],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["Connector", "Deep Palace"],
+    "weapon": "weapon_molotov",
+    "position": [-674.173828125, -1295.9182128906, -167.96875],
+    "viewangles": [-21.750810623169, -52.218460083008],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Jungle", "Chair"],
+    "weapon": "weapon_molotov",
+    "position": [-1119.9985351563, -1527.0544433594, -156.07206726074],
+    "viewangles": [-2.1906859874725, 28.181528091431],
+    "grenade": {
+      "run": 10,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["Palace", "Firebox"],
+    "weapon": "weapon_molotov",
+    "position": [107.20883178711, -2375.96875, -39.96875],
+    "viewangles": [17.349527359009, 116.50704193115],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["A Default", "T Roof"],
+    "weapon": "weapon_molotov",
+    "position": [-301.4748840332, -2042.1202392578, -36.96875],
+    "viewangles": [5.5422515869141, 47.307205200195],
+    "grenade": {
+      "run": 20,
+      "delay": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Van", "Kitchen Window"],
+    "weapon": "weapon_molotov",
+    "position": [-2325.2277832031, 812.55133056641, -119.65472412109],
+    "viewangles": [10.61576461792, -67.954261779785],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Apps Balcony", "Kitchen Window"],
+    "weapon": "weapon_molotov",
+    "position": [-1952.03125, 651.1435546875, -43.96875],
+    "viewangles": [-12.884340286255, -87.542709350586],
+    "grenade": {
+      "strength": 0.5,
+      "run": 3
+    }
+  },
+  {
+    "name": ["Bench", "B Apps"],
+    "weapon": "weapon_molotov",
+    "position": [-2473.1120605469, 243.80160522461, -92.96875],
+    "viewangles": [8.3080530166626, 26.300960540771],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Bench", "B Apps"],
+    "weapon": "weapon_molotov",
+    "position": [-2635.96875, 104.03125, -159.52569580078],
+    "viewangles": [2.8207762241364, 28.943958282471],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["B Apps", "Bench"],
+    "weapon": "weapon_molotov",
+    "position": [-1323.2628173828, 811.70574951172, -79.96875],
+    "viewangles": [-6.9433755874634, -161.41090393066],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["B Site", "B Apps"],
+    "weapon": "weapon_molotov",
+    "position": [-2001.03125, 105.02367401123, -89.96875],
+    "viewangles": [-4.6926908493042, 55.046543121338]
+  },
+  {
+    "name": ["Connector", "A Default"],
+    "weapon": "weapon_molotov",
+    "position": [-710.96875, -831.90014648438, -263.96875],
+    "viewangles": [-22.536096572876, -79.989082336426],
+    "grenade": {
+      "run": 25
+    }
+  },
+  {
+    "name": ["Top Mid", "Window"],
+    "weapon": "weapon_molotov",
+    "position": [502.9831237793, -686.49859619141, -160.00311279297],
+    "viewangles": [-14.275024414063, 179.62469482422],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["Short", "Chair"],
+    "weapon": "weapon_molotov",
+    "position": [-1013.858581543, 219.58573913574, -173.17240905762],
+    "viewangles": [-17.110727310181, -56.817684173584],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Catwalk", "Triple Box"],
+    "weapon": "weapon_molotov",
+    "position": [-667.81103515625, -516.6025390625, -48.09375],
+    "viewangles": [8.2622594833374, -86.454162597656],
+    "grenade": {
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Ramp", "A Default"],
+    "weapon": "weapon_molotov",
+    "position": [651.05114746094, -1128.03125, -127.96875],
+    "viewangles": [-9.583966255188, -135.29719543457],
+    "grenade": {
+      "delay": 10,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ramp", "Jungle"],
+    "weapon": "weapon_molotov",
+    "position": [482.10000610352, -1568.638671875, -253.0150604248],
+    "viewangles": [-19.027603149414, 177.04512023926],
+    "grenade": {
+      "run": 54
+    }
+  },
+  {
+    "name": ["T Ramp", "Fakeduck Box"],
+    "weapon": "weapon_molotov",
+    "position": [691.57727050781, -1130.1566162109, -127.96875],
+    "viewangles": [-1.986100435257, -136.22050476074],
+    "grenade": {
+      "strength": 0.5,
+      "run": 4,
+      "run_speed": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Ramp", "A Default"],
+    "weapon": "weapon_molotov",
+    "position": [651.71392822266, -1128.03125, -127.96875],
+    "viewangles": [1.429227232933, -138.18597412109],
+    "grenade": {
+      "run": 4,
+      "run_speed": true,
+      "run_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Stairs", "T Roof"],
+    "weapon": "weapon_molotov",
+    "position": [-440.96295166016, -1529.0197753906, -39.96875],
+    "viewangles": [-18.088970184326, -0.443274050951]
+  },
+  {
+    "name": ["Top Mid", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [330.31121826172, -84.698265075684, -179.96351623535],
+    "viewangles": [3.7106537818909, -136.87145996094],
+    "grenade": {
+      "run": 22,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Top Mid", "T Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [139.76531982422, -441.07684326172, -167.0758972168],
+    "viewangles": [-26.605674743652, -42.611808776855]
+  },
+  {
+    "name": ["Underpass", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [-1010.832824707, -328.40789794922, -367.96875],
+    "viewangles": [-36.324851989746, -72.577842712402],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": ["Jungle", "Ticket"],
+    "weapon": "weapon_molotov",
+    "position": [-879.97668457031, -1306.0366210938, -167.96875],
+    "viewangles": [3.1724038124084, -88.746192932129],
+    "grenade": {
+      "jump": true
+    }
+  }
+]
+	}
+}
