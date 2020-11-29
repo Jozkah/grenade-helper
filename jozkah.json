@@ -313,7 +313,7 @@
     "grenade": {
       "jump": true
     }
-  }
+  },
   {
     "name": ["T Spawn", "Short"],
     "weapon": "weapon_smokegrenade",
