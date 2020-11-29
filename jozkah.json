@@ -2,7 +2,7 @@
 	"name": "Jozkah",
 	"description": "update logs: added smokes", 
 	"update_timestamp": 1606690418, 
-	"url_format": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/%map%.json",
+	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
   {
