@@ -1,6 +1,6 @@
 {
 	"name": "Jozkah",
-	"description": "Legit Mollies and Movement", 
+	"description": "update logs: added smokes", 
 	"update_timestamp": 1606671868, 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
@@ -26,7 +26,7 @@
     }
   },
   {
-    "name": ["Ticket", "Deep Ramp"],
+    "name": ["Ticket", "Ramp (Deep)"],
     "weapon": "weapon_molotov",
     "position": [-879.36328125, -2263.716796875, -171.15670776367],
     "viewangles": [-12.341564178467, 33.34326171875],
@@ -54,7 +54,7 @@
     }
   },
   {
-    "name": ["Jungle", "Deep Ramp"],
+    "name": ["Jungle", "Ramp (Deep)"],
     "weapon": "weapon_molotov",
     "position": [-1119.9820556641, -1527.0539550781, -156.07315063477],
     "viewangles": [-12.613054275513, -0.93351268768311],
@@ -102,7 +102,7 @@
     }
   },
   {
-    "name": ["Connector", "Deep Palace"],
+    "name": ["Connector", "Palace (Deep)"],
     "weapon": "weapon_molotov",
     "position": [-674.173828125, -1295.9182128906, -167.96875],
     "viewangles": [-21.750810623169, -52.218460083008],
@@ -310,6 +310,157 @@
     "weapon": "weapon_molotov",
     "position": [-879.97668457031, -1306.0366210938, -167.96875],
     "viewangles": [3.1724038124084, -88.746192932129],
+    "grenade": {
+      "jump": true
+    }
+  }
+  {
+    "name": ["T Spawn", "Short"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1422.9964599609, -367.99758911133, -167.96875],
+    "viewangles": [-39.443832397461, 174.79386901855],
+    "grenade": {
+      "run": 6,
+      "delay": 3,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "Short (Deep)"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1422.96875, -367.99890136719, -167.96875],
+    "viewangles": [-30.383295059204, 179.07093811035],
+    "grenade": {
+      "run": 6,
+      "delay": 3,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "Window"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1422.96875, -367.96875, -167.96875],
+    "viewangles": [-29.574298858643, -173.80221557617],
+    "grenade": {
+      "run": 6,
+      "delay": 3,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Top Mid", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [360.0754699707, -691.96875, -162.49678039551],
+    "viewangles": [-46.357852935791, -153.70840454102]
+  },
+  {
+    "name": ["T Ramp", "CT"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1092.5687255859, -1011.4454345703, -257.49179077148],
+    "viewangles": [-15.341287612915, -144.8115234375],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Ramp", "Triple Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [875.96899414063, -1209.7163085938, -108.96875],
+    "viewangles": [-26.955350875854, -152.68099975586]
+  },
+  {
+    "name": ["Tetris", "Jungle"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-31.916694641113, -1418.0069580078, -167.96875],
+    "viewangles": [-34.522304534912, -112.79441833496],
+    "grenade": {
+      "run": 30
+    }
+  },
+  {
+    "name": ["Back Alley", "Window"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-463.8212890625, 641.89221191406, -80.808212280273],
+    "viewangles": [-48.376415252686, -115.02558135986]
+  },
+  {
+    "name": ["Back Alley", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-369.21197509766, 687.09503173828, -79.96875],
+    "viewangles": [-49.264671325684, -99.13468170166],
+    "duck": true
+  },
+  {
+    "name": ["Back Alley", "Arch (left)"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-732.42541503906, 524.03125, -78.724067687988],
+    "viewangles": [-33.322303771973, 140.99052429199],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Ramp", "Midle of Boxes in A"],
+    "weapon": "weapon_smokegrenade",
+    "position": [916.03894042969, -1211.865234375, -108.96875],
+    "viewangles": [-28.582431793213, -150.36959838867]
+  },
+  {
+    "name": ["T Ramp", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1127.9844970703, -1183.96875, -253.83268737793],
+    "viewangles": [-23.603193283081, -176.83895874023],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Palace", "Jungle"],
+    "weapon": "weapon_smokegrenade",
+    "position": [32.031349182129, -2375.9790039063, -39.96875],
+    "viewangles": [-10.511017799377, 82.791664123535],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["Palace", "Stairs"],
+    "weapon": "weapon_smokegrenade",
+    "position": [141.26333618164, -2375.96875, -39.96875],
+    "viewangles": [-6.8778014183044, 124.29557800293]
+  },
+  {
+    "name": ["Palace", "Balcony (one way CT)"],
+    "weapon": "weapon_smokegrenade",
+    "position": [272.033203125, -2245.5063476563, -39.96875],
+    "viewangles": [-10.80658531189, -121.22512054443]
+  },
+  {
+    "name": ["Tetris", "Stairs"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-142.96875, -1418.03125, -72.175369262695],
+    "viewangles": [-20.771938323975, -56.913944244385],
+    "grenade": {
+      "run": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Tetris", "Jungle"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-142.99694824219, -1418.2829589844, -72.175369262695],
+    "viewangles": [-67.39900970459, -175.85598754883],
+    "grenade": {
+      "run": 7,
+      "run_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["CT", "Palace"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2026.396484375, -2029.96875, -299.12615966797],
+    "viewangles": [-23.960691452026, -3.8417081832886],
     "grenade": {
       "jump": true
     }
