@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "update logs: added flashes", 
-	"update_timestamp": 1606742999, 
+	"update_timestamp": 1606743675, 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -430,7 +430,7 @@
     "viewangles": [-6.8778014183044, 124.29557800293]
   },
   {
-    "name": ["Palace", "Balcony (one way CT)"],
+    "name": ["Palace", "Balcony (Oneway CT)"],
     "weapon": "weapon_smokegrenade",
     "position": [272.033203125, -2245.5063476563, -39.96875],
     "viewangles": [-10.80658531189, -121.22512054443]
@@ -582,7 +582,7 @@
     }
   },
   {
-    "name": ["Short", "Triple Box (1way)"],
+    "name": ["Short", "Triple Box (Oneway)"],
     "weapon": "weapon_smokegrenade",
     "position": [-1103.96875, -56.030216217041, -167.96875],
     "viewangles": [-41.729778289795, -16.793367385864],
