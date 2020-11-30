@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
-	"description": "update logs: added smokes", 
-	"update_timestamp": 1606690418, 
+	"description": "update logs: added flashes", 
+	"update_timestamp": 1606742999, 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -463,6 +463,131 @@
     "viewangles": [-23.960691452026, -3.8417081832886],
     "grenade": {
       "jump": true
+    }
+  },
+  {
+    "name": ["Under Palace", "Ramp"],
+    "weapon": "weapon_flashbang",
+    "position": [150.96896362305, -1914.03125, -167.96875],
+    "viewangles": [-9.1330938339233, -104.61120605469],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Kitchen", "Site"],
+    "weapon": "weapon_flashbang",
+    "position": [-2319.9982910156, -695.96875, -167.96875],
+    "viewangles": [-21.943077087402, 87.378776550293]
+  },
+  {
+    "name": ["Catwalk", "Short"],
+    "weapon": "weapon_flashbang",
+    "position": [-197.28224182129, -344.03125, -163.96875],
+    "viewangles": [-52.384941101074, -176.40409851074]
+  },
+  {
+    "name": ["Side Alley", "Mid"],
+    "weapon": "weapon_flashbang",
+    "position": [399.96875, 50.158962249756, -212.96173095703],
+    "viewangles": [-47.27986907959, -154.81690979004]
+  },
+  {
+    "name": ["Ticket", "A Site"],
+    "weapon": "weapon_flashbang",
+    "position": [-1040.56640625, -2232.0034179688, -123.20385742188],
+    "viewangles": [-73.080192565918, 44.401966094971]
+  },
+  {
+    "name": ["Ticket", "A Site"],
+    "weapon": "weapon_flashbang",
+    "position": [-1046.5212402344, -2232.0288085938, -167.96875],
+    "viewangles": [-78.580635070801, 37.228542327881]
+  },
+  {
+    "name": ["Ticket", "Connector"],
+    "weapon": "weapon_flashbang",
+    "position": [-1017.0025024414, -2232.0041503906, -112.90266418457],
+    "viewangles": [-68.327781677246, 77.031394958496],
+    "grenade": {
+      "delay": 4,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ticket", "A Site"],
+    "weapon": "weapon_flashbang",
+    "position": [-1017.0322265625, -2232.00390625, -112.90266418457],
+    "viewangles": [-79.251403808594, 81.255760192871]
+  },
+  {
+    "name": ["CT", "Jungle"],
+    "weapon": "weapon_flashbang",
+    "position": [-1372.2032470703, -1095.96875, -167.96875],
+    "viewangles": [-14.165104866028, 171.47735595703],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Under Palace", "Ramp"],
+    "weapon": "weapon_flashbang",
+    "position": [150.96896362305, -2071.96875, -167.96875],
+    "viewangles": [-8.2314281463623, 117.32610321045]
+  },
+  {
+    "name": ["Under Palace", "Tetris\/Palace"],
+    "weapon": "weapon_flashbang",
+    "position": [150.96896362305, -2071.96875, -167.96875],
+    "viewangles": [-24.192733764648, 101.70958709717]
+  },
+  {
+    "name": ["B Site", "Kitchen Door"],
+    "weapon": "weapon_flashbang",
+    "position": [-2199.96875, 88.040016174316, -159.96875],
+    "viewangles": [-24.441528320313, 7.7065496444702]
+  },
+  {
+    "name": ["Stairs", "Ramp"],
+    "weapon": "weapon_flashbang",
+    "position": [-496.03125, -1309.03125, -159.96875],
+    "viewangles": [-44.638278961182, 103.0689163208],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["B Default", "B Apps"],
+    "weapon": "weapon_flashbang",
+    "position": [-1987.03125, 372.72283935547, -159.96875],
+    "viewangles": [-6.18092918396, 131.30311584473]
+  },
+  {
+    "name": ["Balcony", "Kithen Door"],
+    "weapon": "weapon_molotov",
+    "position": [-1952.0321044922, 650.88861083984, -43.96875],
+    "viewangles": [-1.4404351711273, -112.99835968018],
+    "grenade": {
+      "run": 2,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Balcony", "Kitchen Door (Deep)"],
+    "weapon": "weapon_molotov",
+    "position": [-1952.0321044922, 650.88861083984, -43.96875],
+    "viewangles": [0.25485441088676, -112.93053436279],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Short", "Triple Box (1way)"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1103.96875, -56.030216217041, -167.96875],
+    "viewangles": [-41.729778289795, -16.793367385864],
+    "grenade": {
+      "strength": 0
     }
   }
 ]
