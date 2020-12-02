@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
-	"description": "update logs: added flashes", 
-	"update_timestamp": 1606877151, 
+	"description": "update logs: added inferno stuff", 
+	"update_timestamp": 1606919934, 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -918,6 +918,31 @@
     "grenade": {
       "run": 10,
       "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["CT", "Mid"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2535.1064453125, 2093.03125, 132.03125],
+    "viewangles": [-11.25726890564, -129.46293640137],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Boiler", "Stairs (Popflash)"],
+    "weapon": "weapon_flashbang",
+    "position": [1185.03125, 359.98309326172, 128.03125],
+    "viewangles": [-16, -84]
+  },
+  {
+    "name": ["Short", "Balcony"],
+    "weapon": "weapon_hegrenade",
+    "position": [1951, -9, 125.22563171387],
+    "viewangles": [-40, -174],
+    "grenade": {
+      "run": 36,
+      "jump": true
     }
   }
 ]
