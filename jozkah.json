@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "update logs: added inferno stuff", 
-	"update_timestamp": 1606919934, 
+	"update_timestamp": 1607018747, 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -848,7 +848,7 @@
   {
     "name": ["2nd mid", "Back Alley (break window)"],
     "weapon": "weapon_molotov",
-    "position": [279.03134155273, -135.74133300781, 52.99341583252],
+    "position": [279.031250, -135.968750, 53.007145],
     "viewangles": [-27.302696228027, 11.075866699219],
     "grenade": {
       "run": 30
@@ -942,6 +942,53 @@
     "viewangles": [-40, -174],
     "grenade": {
       "run": 36,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Balcony", "Short"],
+    "weapon": "weapon_molotov",
+    "position": [894.91131591797, -56.082542419434, 296.03125],
+    "viewangles": [-21.159509658813, 5.4179558753967],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Balcony", "Patio"],
+    "weapon": "weapon_molotov",
+    "position": [895.18176269531, -88.172424316406, 296.03125],
+    "viewangles": [-23.818084716797, -1.0121674537659],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["2nd Mid", "Patio"],
+    "weapon": "weapon_molotov",
+    "position": [656.16168212891, -6.191577911377, 87.330268859863],
+    "viewangles": [-32.587104797363, -1.3795473575592],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Top Mid", "Moto"],
+    "weapon": "weapon_molotov",
+    "position": [959.95935058594, 434.03125, 88.03125],
+    "viewangles": [-36.808418273926, 14.064237594604],
+    "grenade": {
+      "run": 50,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Top Mid", "Stairs"],
+    "weapon": "weapon_molotov",
+    "position": [964.45764160156, 523.00103759766, 88.079833984375],
+    "viewangles": [-32.861709594727, -9.7603197097778],
+    "grenade": {
+      "run": 78,
       "jump": true
     }
   }
