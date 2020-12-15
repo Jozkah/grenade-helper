@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "added movement", 
-	"update_timestamp": 1608061803  , 
+	"update_timestamp": 1608061843 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -687,7 +687,7 @@
       "run": 55,
       "jump": true
     }
-  }
+  },
   {
     "name": ["Ninja", "Ninja"],
     "weapon": "weapon_knife",
