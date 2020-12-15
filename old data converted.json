@@ -1,7 +1,7 @@
 {
 	"name": "Phil's old data",
 	"description": "contains all data from v2", 
-	"update_timestamp": 1608059660 , 
+	"update_timestamp": 1608059920 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/old%20data%20converted.json",
 	"locations": {
     "de_mirage":[
@@ -38075,4 +38075,4 @@
               0.088,
               0.088001
             ],
-            
+		  }
