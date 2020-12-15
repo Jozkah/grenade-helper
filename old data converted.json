@@ -1,7 +1,7 @@
 {
 	"name": "v2 grenades",
 	"description": "no description", 
-	"update_timestamp": 1608059660 , 
+	"update_timestamp": 1608065779 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/old%20data%20converted.json",
 	"locations": 
 {
@@ -2863,22 +2863,6 @@
         "viewangles":[
           -8.278,
           117.291
-        ]
-      },
-      {
-        "name":[
-          "Window",
-          "Whatever"
-        ],
-        "weapon":"weapon_knife",
-        "position":[
-          -1099.249,
-          -683.903,
-          -134.969
-        ],
-        "viewangles":[
-          4.477,
-          89.448
         ]
       },
       {
