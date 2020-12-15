@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "added movement", 
-	"update_timestamp": 1608061843 , 
+	"update_timestamp": 1608072122 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -6568,69 +6568,6 @@
           "J"
         ],
         1911
-      ]
-    }
-  },
-  {
-    "name": ["Bug", "Bug"],
-    "weapon": "weapon_knife",
-    "position": [-1029, -215.9700012207, -19.96875],
-    "viewangles": [88.639999389648, -76.430000305176],
-    "movement": {
-      "frames": [
-        [
-          0,
-          0,
-          "D"
-        ],
-        8,
-        [
-          0,
-          0,
-          "B"
-        ],
-        76,
-        [
-          0,
-          0,
-          "b"
-        ],
-        7,
-        [
-          0,
-          0,
-          "d"
-        ],
-        8
-      ]
-    }
-  },
-  {
-    "name": ["Bug", "Bug"],
-    "weapon": "weapon_knife",
-    "position": [-1009.9699707031, -212, -19.96875],
-    "viewangles": [89, -80.019996643066],
-    "movement": {
-      "frames": [
-        [
-          0,
-          0,
-          "D"
-        ],
-        6,
-        [
-          0,
-          0,
-          "B",
-          -225
-        ],
-        62,
-        [
-          0,
-          0,
-          "b"
-        ],
-        17
       ]
     }
   },
