@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "added some descriptions", 
-	"update_timestamp": 1608057909 , 
+	"update_timestamp": 1608059660 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -615,6 +615,76 @@
     "grenade": {
       "fov": 5.12,
       "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ramp", "Jungle Door"],
+    "weapon": "weapon_molotov",
+    "position": [428.59594726563, -1613.5140380859, -226.26304626465],
+    "viewangles": [-16.177150726318, 174.93814086914],
+    "grenade": {
+      "run": 30
+    }
+  },
+  {
+    "name": ["Connector", "Under Balcony"],
+    "weapon": "weapon_molotov",
+    "position": [-754.22296142578, -1145.0654296875, -167.96875],
+    "viewangles": [-12.079488754272, -56.371459960938],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Ticket", "Stairs"],
+    "weapon": "weapon_molotov",
+    "position": [-975.99981689453, -2578.1064453125, -167.96875],
+    "viewangles": [-24.674844741821, 66.904365539551]
+  },
+  {
+    "name": ["T Start", "Middle of Boxes in A"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1395.7312011719, -780.22381591797, -167.96875],
+    "viewangles": [-12.514131546021, -146.2501373291],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Palace Alley", "Firebox"],
+    "weapon": "weapon_smokegrenade",
+    "position": [688.79614257813, -1130.03125, -127.96875],
+    "viewangles": [-56.628650665283, -148.35789489746]
+  },
+  {
+    "name": ["Palace", "Under Palace"],
+    "weapon": "weapon_smokegrenade",
+    "position": [367.96875, -2157.8266601563, -39.96875],
+    "viewangles": [-9.4456167221069, -127.6845703125]
+  },
+  {
+    "name": ["Palace Alley", "Bombsite A"],
+    "weapon": "weapon_smokegrenade",
+    "position": [875.96899414063, -1209.6899414063, -108.90599822998],
+    "viewangles": [-55.019802093506, -152.19412231445]
+  },
+  {
+    "name": ["T Start", "Short"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1422.998046875, -367.96875, -167.96875],
+    "viewangles": [-52.623477935791, -176.43165588379],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["CT Start", "Down Mid (Oneway)"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1710.3594970703, -1686.6776123047, -264.05648803711],
+    "viewangles": [-20.88362121582, 75.4111328125],
+    "grenade": {
+      "run": 55,
       "jump": true
     }
   }
