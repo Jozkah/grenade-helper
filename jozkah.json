@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
-	"description": "update logs: added some extra inferno mollies", 
-	"update_timestamp": 1607018747, 
+	"description": "added smoke short from stairs", 
+	"update_timestamp": 1608056794 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -588,6 +588,28 @@
     "viewangles": [-41.729778289795, -16.793367385864],
     "grenade": {
       "strength": 0
+    }
+  },
+  {
+    "name": ["Stairs", "Short (Deep)"],
+    "weapon": "weapon_molotov",
+    "position": [-492.04159545898, -1613.2185058594, -38.96875],
+    "viewangles": [6.646294593811, 101.56031799316],
+    "grenade": {
+      "fov": 5.12,
+      "run": 16,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Stairs", "Short"],
+    "weapon": "weapon_molotov",
+    "position": [-490.07513427734, -1613.6782226563, -39.96875],
+    "viewangles": [7.0305967330933, 107.10733032227],
+    "grenade": {
+      "fov": 5.12,
+      "run": 16,
+      "jump": true
     }
   }
 ],
