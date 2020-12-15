@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
-	"description": "added smoke short from stairs", 
-	"update_timestamp": 1608056794 , 
+	"description": "added some descriptions", 
+	"update_timestamp": 1608057909 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -152,6 +152,7 @@
   },
   {
     "name": ["Apps Balcony", "Kitchen Window"],
+    "description": "you will fall after throw",
     "weapon": "weapon_molotov",
     "position": [-1952.03125, 651.1435546875, -43.96875],
     "viewangles": [-12.884340286255, -87.542709350586],
@@ -430,7 +431,8 @@
     "viewangles": [-6.8778014183044, 124.29557800293]
   },
   {
-    "name": ["Palace", "Balcony (Oneway CT)"],
+    "name": ["Palace", "Balcony (Oneway)"],
+    "description": "ONEWAY TO CT",
     "weapon": "weapon_smokegrenade",
     "position": [272.033203125, -2245.5063476563, -39.96875],
     "viewangles": [-10.80658531189, -121.22512054443]
@@ -574,6 +576,7 @@
   },
   {
     "name": ["Balcony", "Kitchen Door (Deep)"],
+    "description": "you will fall after throw",
     "weapon": "weapon_molotov",
     "position": [-1952.0321044922, 650.88861083984, -43.96875],
     "viewangles": [0.25485441088676, -112.93053436279],
@@ -591,20 +594,21 @@
       "strength": 0
     }
   },
-{
-  "name": ["Stairs", "Short"],
-  "weapon": "weapon_molotov",
-  "position": [-492.07986450195, -1613.1705322266, -39.96875],
-  "viewangles": [-2.9127209186554, 101.56028747559],
-  "grenade": {
-    "fov": 5.12,
-    "run": 9,
-    "delay": 12,
-    "jump": true
-  }
-},
   {
     "name": ["Stairs", "Short"],
+    "weapon": "weapon_molotov",
+    "position": [-492.07986450195, -1613.1705322266, -39.96875],
+    "viewangles": [-2.9127209186554, 101.56028747559],
+    "grenade": {
+      "fov": 5.12,
+      "run": 9,
+      "delay": 12,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Stairs", "Short"],
+    "description": "try to aim at the top right of the circle",
     "weapon": "weapon_molotov",
     "position": [-490.07513427734, -1613.6782226563, -39.96875],
     "viewangles": [7.0305967330933, 107.10733032227],
