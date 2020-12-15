@@ -582,7 +582,8 @@
     }
   },
   {
-    "name": ["Short", "Triple Box (Oneway)"],
+    "name": ["Shwort", "Triple Box (Oneway)"],
+    "description": "after plant oneway go to short",
     "weapon": "weapon_smokegrenade",
     "position": [-1103.96875, -56.030216217041, -167.96875],
     "viewangles": [-41.729778289795, -16.793367385864],
@@ -590,17 +591,18 @@
       "strength": 0
     }
   },
-  {
-    "name": ["Stairs", "Short (Deep)"],
-    "weapon": "weapon_molotov",
-    "position": [-492.04159545898, -1613.2185058594, -38.96875],
-    "viewangles": [6.646294593811, 101.56031799316],
-    "grenade": {
-      "fov": 5.12,
-      "run": 16,
-      "jump": true
-    }
-  },
+{
+  "name": ["Stairs", "Short"],
+  "weapon": "weapon_molotov",
+  "position": [-492.07986450195, -1613.1705322266, -39.96875],
+  "viewangles": [-2.9127209186554, 101.56028747559],
+  "grenade": {
+    "fov": 5.12,
+    "run": 9,
+    "delay": 12,
+    "jump": true
+  }
+},
   {
     "name": ["Stairs", "Short"],
     "weapon": "weapon_molotov",
