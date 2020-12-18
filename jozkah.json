@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
-	"description": "added movement", 
-	"update_timestamp": 1608072122 , 
+	"description": "fixed nade", 
+	"update_timestamp": 1608334649 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -7207,12 +7207,6 @@
     "grenade": {
       "strength": 0
     }
-  },
-  {
-    "name": ["CT", "Fontain"],
-    "weapon": "weapon_smokegrenade",
-    "position": [1964.4071044922, 2638.3874511719, 128.03125],
-    "viewangles": [-41.286769866943, 175.31416320801]
   },
   {
     "name": ["2nd", "Sand Bags"],
