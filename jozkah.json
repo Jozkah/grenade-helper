@@ -7242,12 +7242,6 @@
     "viewangles": [-30.276769638062, -129.94972229004]
   },
   {
-    "name": ["CT", "Banana (Deep)"],
-    "weapon": "weapon_smokegrenade",
-    "position": [875.96875, 2481.3522949219, 145.03125],
-    "viewangles": [-23.953393936157, -125.10266876221]
-  },
-  {
     "name": ["Banana", "Coffins"],
     "weapon": "weapon_molotov",
     "position": [460.43115234375, 1828.4732666016, 136.11633300781],
