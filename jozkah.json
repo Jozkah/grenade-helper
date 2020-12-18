@@ -28,7 +28,7 @@
   {
     "name": ["Ticket", "Ramp (Deep)"],
     "weapon": "weapon_molotov",
-    "position": [-879.36328125, -2263.716796875, -171.15670776367],
+    "position": [-879.36328125, -2263.716796875, -171.15670776367]F,
     "viewangles": [-12.341564178467, 33.34326171875],
     "grenade": {
       "run": 3
@@ -7213,18 +7213,6 @@
     "weapon": "weapon_smokegrenade",
     "position": [386.60427856445, 2537.650390625, 160.03125],
     "viewangles": [-26.400405883789, -19.79580116272]
-  },
-  {
-    "name": ["CT", "Sand Bags"],
-    "weapon": "weapon_smokegrenade",
-    "position": [1089.2579345703, 2781.96875, 128.03125],
-    "viewangles": [0.3309740126133, -145.5604095459]
-  },
-  {
-    "name": ["CT", "Sand Bags"],
-    "weapon": "weapon_smokegrenade",
-    "position": [2032.1162109375, 2975.8413085938, 133.02235412598],
-    "viewangles": [-38.327289581299, -154.85301208496]
   },
   {
     "name": ["Sand Bags", "Logs (Oneway)"],
