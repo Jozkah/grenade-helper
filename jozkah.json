@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "fixed nade", 
-	"update_timestamp": 1608334649 , 
+	"update_timestamp": 1609004856 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -260,18 +260,6 @@
       "strength": 0.5,
       "run": 4,
       "run_speed": true,
-      "jump": true
-    }
-  },
-  {
-    "name": ["T Ramp", "A Default"],
-    "weapon": "weapon_molotov",
-    "position": [651.71392822266, -1128.03125, -127.96875],
-    "viewangles": [1.029227232933, -138.18597412109],
-    "grenade": {
-      "run": 4,
-      "run_speed": true,
-      "run_yaw": 90,
       "jump": true
     }
   },
