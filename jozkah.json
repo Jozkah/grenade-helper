@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
-	"description": "fixed nade", 
-	"update_timestamp": 1610221191 , 
+	"description": "new movement", 
+	"update_timestamp": 1610221276 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
