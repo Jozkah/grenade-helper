@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "minified movement", 
-	"update_timestamp": 1610417474 , 
+	"update_timestamp": 1610418059 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -119,6 +119,39 @@
     "grenade": {
       "run": 15
     }
+  },
+  {
+    "name": ["A Default", "Connector (Deep)"],
+    "weapon": "weapon_molotov",
+    "position": [-253.96875, -2134.0754394531, -172.95622253418],
+    "viewangles": [1.8038228750229, 114.80462646484],
+    "grenade": {
+      "delay": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A Default", "Stairs"],
+    "weapon": "weapon_molotov",
+    "position": [-253.96875, -2134.0754394531, -172.94778442383],
+    "viewangles": [-1.2750687599182, 112.73067474365],
+    "grenade": {
+      "strength": 0.5,
+      "delay": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A Default", "Jungle"],
+    "weapon": "weapon_molotov",
+    "position": [-253.97244262695, -2134.0717773438, -172.9471282959],
+    "viewangles": [-7.7867026329041, 131.41558837891]
+  },
+  {
+    "name": ["A Default", "Jungle (Deep)"],
+    "weapon": "weapon_molotov",
+    "position": [-253.96875, -2134.0693359375, -172.95668029785],
+    "viewangles": [-20.835441589355, 136.45732116699]
   },
   {
     "name": ["Jungle", "Ramp (Deep)"],
