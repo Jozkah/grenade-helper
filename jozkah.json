@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "minified movement", 
-	"update_timestamp": 1610416520 , 
+	"update_timestamp": 1610417474 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -13,6 +13,73 @@
     "grenade": {
       "run": 80,
       "delay": 4
+    }
+  },
+    {
+    "name": ["Jungle", "Ramp (Deep)"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1119.96875, -1527.0847167969, -156.07110595703],
+    "viewangles": [-9.8119554519653, 0.10424179583788],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Jungle", "Ramp"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1119.96875, -1527.0847167969, -156.07110595703],
+    "viewangles": [-13.402297019958, 0.18652199208736],
+    "grenade": {
+      "run": 10,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Jungle", "Tetris"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1119.994140625, -1527.0848388672, -156.07325744629],
+    "viewangles": [-25.002759933472, 0.13681390881538],
+    "grenade": {
+      "strength": 0.5,
+      "run": 20
+    }
+  },
+  {
+    "name": ["Jungle", "Sandwich"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1119.9775390625, -1527.0834960938, -156.0701751709],
+    "viewangles": [-21.792831420898, -0.4757696390152],
+    "grenade": {
+      "strength": 0.5,
+      "run": 20
+    }
+  },
+  {
+    "name": ["Connector", "Palace"],
+    "weapon": "weapon_hegrenade",
+    "position": [-676.33923339844, -1294.2496337891, -167.96875],
+    "viewangles": [-18.5217628479, -50.4465675354],
+    "grenade": {
+      "run": 5
+    }
+  },
+  {
+    "name": ["Connector", "Palace (Deep)"],
+    "weapon": "weapon_hegrenade",
+    "position": [-676.33923339844, -1294.2496337891, -167.96875],
+    "viewangles": [-21.416513442993, -52.189533233643],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Stairs", "Ticket"],
+    "weapon": "weapon_hegrenade",
+    "position": [-496.03125, -1309.03125, -159.96875],
+    "viewangles": [-9.7412757873535, -108.51657867432],
+    "grenade": {
+      "run": 10,
+      "recovery_yaw": 180
     }
   },
   {
