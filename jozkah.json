@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "bugs + he", 
-	"update_timestamp": 1613122644 , 
+	"update_timestamp": 1613348792 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -337,10 +337,11 @@
   {
     "name": ["Jungle", "Chair"],
     "weapon": "weapon_molotov",
-    "position": [-1119.9985351563, -1527.0544433594, -156.07206726074],
-    "viewangles": [-2.1906859874725, 28.181528091431],
+    "position": [-1119.9919433594, -1527.0539550781, -156.07299804688],
+    "viewangles": [-3.2945146560669, 28.079132080078],
     "grenade": {
-      "run": 10,
+      "run": 44,
+      "run_speed": true,
       "jump": true
     },
     "duck": true
