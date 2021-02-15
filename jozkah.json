@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "bugs + he", 
-	"update_timestamp": 1613348792 , 
+	"update_timestamp": 1613349411 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -35,6 +35,60 @@
     "grenade": {
       "run": 44
     }
+  },
+  {
+    "name": ["Window", "Underpass (Deep)"],
+    "weapon": "weapon_molotov",
+    "position": [-1120.03125, -456.03125, -167.96875],
+    "viewangles": [10.715971946716, -79.34782409668],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Window", "Underpass"],
+    "weapon": "weapon_molotov",
+    "position": [-1120.03125, -456.03125, -167.96875],
+    "viewangles": [-0.23474279046059, -83.080238342285]
+  },
+  {
+    "name": ["Window", "Short"],
+    "weapon": "weapon_molotov",
+    "position": [-1183.96875, -456.03125, -167.96875],
+    "viewangles": [-13.560829162598, -60.52721786499],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Window", "Short"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1183.96875, -456.03125, -167.96875],
+    "viewangles": [-13.635983467102, -60.567123413086],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Window", "Underpass"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1183.96875, -456.03125, -167.96875],
+    "viewangles": [6.6952385902405, -69.69083404541]
+  },
+  {
+    "name": ["Window", "Underpass (Deep)"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1120.03125, -456.03125, -167.96875],
+    "viewangles": [10.6760597229, -79.259536743164],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Window", "Underpass"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1120.03125, -456.03125, -167.96875],
+    "viewangles": [-0.32146069407463, -83.11686706543]
   },
   {
     "name": ["Under", "Cat"],
