@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "d2 stuff", 
-	"update_timestamp": 1613956708 , 
+	"update_timestamp": 1613957598 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -1162,6 +1162,113 @@
       "run": 9,
       "delay": 12,
       "jump": true
+    }
+  },
+  {
+    "name": ["Jungle", "Ladder"],
+    "weapon": "weapon_molotov",
+    "position": [-1120.0109863281, -1175.96875, -167.96875],
+    "viewangles": [12.700835227966, 92.239891052246],
+    "grenade": {
+      "run": 15,
+      "delay": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Jungle", "Ladder (Deep)"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1120.0029296875, -1175.96875, -167.96875],
+    "viewangles": [12.609932899475, 92.274879455566],
+    "grenade": {
+      "run": 15,
+      "delay": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Jungle", "Ladder"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1120.0148925781, -1175.9763183594, -167.96875],
+    "viewangles": [14.545283317566, 92.532592773438],
+    "grenade": {
+      "run": 15,
+      "delay": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Underpass", "Jungle (Deep)"],
+    "weapon": "weapon_molotov",
+    "position": [-1053.8724365234, -380.02108764648, -263.96875],
+    "viewangles": [-18.502300262451, -100.1153717041]
+  },
+  {
+    "name": ["Underpass", "Jungle"],
+    "weapon": "weapon_molotov",
+    "position": [-1053.8724365234, -380.02108764648, -263.96875],
+    "viewangles": [-34.135623931885, -99.965850830078],
+    "grenade": {
+      "strength": 0.5,
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Underpass", "Vents"],
+    "weapon": "weapon_molotov",
+    "position": [-1053.8448486328, -380.10363769531, -263.96875],
+    "viewangles": [-6.1069955825806, -98.586441040039],
+    "grenade": {
+      "run": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Underpass", "Vents"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1053.8448486328, -380.10363769531, -263.96875],
+    "viewangles": [-6.1069955825806, -98.586441040039],
+    "grenade": {
+      "run": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Underpass", "Jungle"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1053.8745117188, -380.01470947266, -263.96875],
+    "viewangles": [-34.160064697266, -99.92765045166],
+    "grenade": {
+      "strength": 0.5,
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Underpass", "Jungle (Deep)"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1053.8745117188, -380.01470947266, -263.96875],
+    "viewangles": [-18.579328536987, -100.16995239258]
+  },
+  {
+    "name": ["Underpass", "Jungle (Deep)"],
+    "weapon": "weapon_hegrenade",
+    "position": [-944.03125, -380.03125, -263.96875],
+    "viewangles": [-12.875825881958, -117.78271484375],
+    "grenade": {
+      "run": 3
+    }
+  },
+  {
+    "name": ["Underpass", "Vents"],
+    "weapon": "weapon_hegrenade",
+    "position": [-944.03125, -380.03125, -263.96875],
+    "viewangles": [-32.831008911133, -117.05265808105],
+    "grenade": {
+      "strength": 0.5,
+      "run": 3,
+      "run_speed": true
     }
   },
   {
