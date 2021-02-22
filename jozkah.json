@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "d2 stuff", 
-	"update_timestamp": 1613956489 , 
+	"update_timestamp": 1613956708 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -1149,6 +1149,18 @@
       "run": 9,
       "delay": 8,
       "run_yaw": 36,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Stairs", "Short"],
+    "weapon": "weapon_molotov",
+    "position": [-492.07986450195, -1613.1705322266, -39.96875],
+    "viewangles": [-2.9127209186554, 101.56028747559],
+    "grenade": {
+      "fov": 5.12,
+      "run": 9,
+      "delay": 12,
       "jump": true
     }
   },
