@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "d2 stuff", 
-	"update_timestamp": 1613957598 , 
+	"update_timestamp": 1614012625 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -1020,12 +1020,6 @@
     "weapon": "weapon_smokegrenade",
     "position": [367.96875, -2157.8266601563, -39.96875],
     "viewangles": [-9.4456167221069, -127.6845703125]
-  },
-  {
-    "name": ["Palace Alley", "Bombsite A"],
-    "weapon": "weapon_smokegrenade",
-    "position": [875.96899414063, -1209.6899414063, -108.90599822998],
-    "viewangles": [-55.019802093506, -152.19412231445]
   },
   {
     "name": ["T Start", "Short"],
