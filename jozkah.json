@@ -1,6 +1,6 @@
 {
     "name": "Jozkah",
-    "description": "d2 stuff", 
-    "update_timestamp": 1614012625,
+    "description": "changed how nades are saved", 
+    "update_timestamp": 1614022468,
     "url_format": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/maps/%map%.json"
 }
