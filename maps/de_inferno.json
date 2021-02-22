@@ -114,6 +114,103 @@
     }
   },
   {
+    "name": ["Banana", "B Site"],
+    "weapon": "weapon_flashbang",
+    "position": [288.82949829102, 1551.197265625, 113.03125],
+    "viewangles": [-28.872787475586, 94.208999633789]
+  },
+  {
+    "name": ["Coffins", "Banana"],
+    "weapon": "weapon_flashbang",
+    "position": [535.96875, 3100.0700683594, 206.03125],
+    "viewangles": [-17.742559432983, -84.106597900391]
+  },
+  {
+    "name": ["Ruins Boost", "Banana (Popflash)"],
+    "weapon": "weapon_flashbang",
+    "position": [1128.03125, 2643.03125, 134.49531555176],
+    "viewangles": [-0.78310906887054, 18.777725219727]
+  },
+  {
+    "name": ["Lower Mi", "Banana"],
+    "weapon": "weapon_flashbang",
+    "position": [-654.81048583984, 590.07159423828, 20.629684448242],
+    "viewangles": [-13.670460700989, 59.147575378418],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Pit", "Short (Popflash)"],
+    "weapon": "weapon_flashbang",
+    "position": [2446.0256347656, -225.01889038086, 87.03125],
+    "viewangles": [-13.539672851563, 159.2029876709]
+  },
+  {
+    "name": ["Pit", "Short (Popflash)"],
+    "weapon": "weapon_flashbang",
+    "position": [2643.6647949219, -337.03125, 90.770408630371],
+    "viewangles": [-24.235998153687, 171.33557128906]
+  },
+  {
+    "name": ["Library", "Library Door (Popflash)"],
+    "weapon": "weapon_flashbang",
+    "position": [2485.03125, 1311.96875, 160.03125],
+    "viewangles": [-7.0469641685486, -23.727684020996]
+  },
+  {
+    "name": ["Ruins Boost", "Banana"],
+    "weapon": "weapon_flashbang",
+    "position": [1130.0169677734, 2800.6989746094, 128.03125],
+    "viewangles": [-26.150876998901, -144.36520385742]
+  },
+  {
+    "name": ["Top Banana", "B Site"],
+    "weapon": "weapon_flashbang",
+    "position": [409.30172729492, 2009.1702880859, 128.03125],
+    "viewangles": [-39.929340362549, 62.826152801514],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Sandbags", "Banana"],
+    "weapon": "weapon_flashbang",
+    "position": [999.96875, 1917.96875, 152.2045135498],
+    "viewangles": [-31.409599304199, -175.26957702637]
+  },
+  {
+    "name": ["Ruins", "B Entry"],
+    "weapon": "weapon_flashbang",
+    "position": [1325.9958496094, 2643.0305175781, 138.24702453613],
+    "viewangles": [-27.30223274231, -176.47497558594],
+    "duck": true
+  },
+  {
+    "name": ["Banana", "Banana"],
+    "weapon": "weapon_flashbang",
+    "position": [68.03125, 992.52087402344, 77.80152130127],
+    "viewangles": [-18.827394485474, 67.405181884766]
+  },
+  {
+    "name": ["Banana", "B Site"],
+    "weapon": "weapon_flashbang",
+    "position": [110.84189605713, 1569.6140136719, 132.01387023926],
+    "viewangles": [-28.035247802734, 79.44059753418]
+  },
+  {
+    "name": ["Construction", "Garden"],
+    "weapon": "weapon_flashbang",
+    "position": [1027.96875, 3056.0224609375, 128.03125],
+    "viewangles": [-44.625888824463, 143.71801757813]
+  },
+  {
+    "name": ["Under Balcony", "Short"],
+    "weapon": "weapon_flashbang",
+    "position": [2159.03125, -520.96875, 88.03125],
+    "viewangles": [-54.454658508301, 112.24432373047]
+  },
+  {
     "name": ["Balcony", "Short (Oneway Pit)"],
     "weapon": "weapon_smokegrenade",
     "position": [2111.1340332031, -321.23226928711, 292.03125],
