@@ -1,7 +1,7 @@
 {
 	"name": "Jozkah",
 	"description": "window movement", 
-	"update_timestamp": 1613952614 , 
+	"update_timestamp": 1613953173 , 
 	"url": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json",
 	"locations": {
 		"de_mirage": [
@@ -1948,6 +1948,53 @@
     "weapon": "weapon_smokegrenade",
     "position": [795.96875, 808.03125, 0.03125],
     "viewangles": [-39.629821777344, 121.16275787354]
+  },
+  {
+    "name": ["Long", "Long Doors"],
+    "weapon": "weapon_flashbang",
+    "position": [1254.03125, 1280.1724853516, 1.081248998642],
+    "viewangles": [-39.018920898438, 74.304695129395]
+  },
+  {
+    "name": ["Tunnels", "Entry"],
+    "weapon": "weapon_flashbang",
+    "position": [-1747.7064208984, 1064.03125, 33.98766708374],
+    "viewangles": [-19.581113815308, 118.66014099121],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["Yellow Car", "Long"],
+    "weapon": "weapon_flashbang",
+    "position": [363.96875, -384.22073364258, 6.346736907959],
+    "viewangles": [-6.669207572937, 48.826961517334],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Yellow Car", "Long Doors"],
+    "weapon": "weapon_flashbang",
+    "position": [656.88458251953, -186.75, -1.1781234741211],
+    "viewangles": [-14.480262756348, 91.772987365723],
+    "duck": true
+  },
+  {
+    "name": ["Tunnels", "Short"],
+    "weapon": "weapon_flashbang",
+    "position": [-556.00115966797, 1368.4600830078, -111.24907684326],
+    "viewangles": [-36.546340942383, 9.9942588806152]
+  },
+  {
+    "name": ["Catwalk", "Short"],
+    "weapon": "weapon_molotov",
+    "position": [-210.33619689941, 592.53204345703, 0.33324098587036],
+    "viewangles": [2.2224950790405, 88.836235046387],
+    "grenade": {
+      "run": 24,
+      "jump": true
+    }
   }
 ]
 }}
