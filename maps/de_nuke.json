@@ -1,0 +1,117 @@
+[
+  {
+    "name": ["Silo", "Main"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-10.847395896912, -1475.8497314453, -41.25399017334],
+    "viewangles": [-23.789541244507, 41.866321563721],
+    "grenade": {
+      "strength": 0.5,
+      "run": 10
+    }
+  },
+  {
+    "name": ["Roof", "Secret"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-441.03125, -1060.4583740234, -171.96875],
+    "viewangles": [-21.838266372681, -37.728240966797],
+    "grenade": {
+      "run": 1,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["Roof", "Garage"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-441.03125, -1060.4725341797, -171.96875],
+    "viewangles": [-2.9337501525879, -24.271595001221],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Outside", "Garage"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-324.31442260742, -1901.0997314453, -415.96875],
+    "viewangles": [-15.656980514526, -3.6059236526489]
+  },
+  {
+    "name": ["Outside", "Secret"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-324.31442260742, -1901.0997314453, -415.96875],
+    "viewangles": [-20.085161209106, -16.755729675293]
+  },
+  {
+    "name": ["Outside", "Main"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-324.31442260742, -1901.0997314453, -415.96875],
+    "viewangles": [-4.7212500572205, 3.1111419200897],
+    "grenade": {
+      "run": 25,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Outside", "Red"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-164.08882141113, -1954.7935791016, -415.96875],
+    "viewangles": [-36.793151855469, 15.307148933411]
+  },
+  {
+    "name": ["Main", "Outside"],
+    "weapon": "weapon_smokegrenade",
+    "position": [918.77447509766, -1552.3853759766, -415.96881103516],
+    "viewangles": [-60.392749786377, -138.82032775879],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "Secret"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-727.33483886719, -1322.3356933594, -407.96875],
+    "viewangles": [-9.7905359268188, -25.460752487183],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Roof", "Vents"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-340.77075195313, -1067.03125, -171.96875],
+    "viewangles": [-23.89026260376, -9.7975978851318]
+  },
+  {
+    "name": ["Loby", "Hut"],
+    "weapon": "weapon_flashbang",
+    "position": [160.03254699707, -977.05041503906, -415.96875],
+    "viewangles": [-0.25982537865639, -55.616954803467],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Roof", "Heaven"],
+    "weapon": "weapon_flashbang",
+    "position": [-175.72235107422, -568.60729980469, -105.96875],
+    "viewangles": [7.3782396316528, -5.2844972610474],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Roof", "Top Hud"],
+    "weapon": "weapon_molotov",
+    "position": [-470.58148193359, -1167.4145507813, -155.46875],
+    "viewangles": [0.59382045269012, -0.085864275693893],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Lobby", "Top Hud"],
+    "weapon": "weapon_molotov",
+    "position": [-18.202722549438, -982.59411621094, -415.96875],
+    "viewangles": [-46.605079650879, 1.3204845190048]
+  }
+]
