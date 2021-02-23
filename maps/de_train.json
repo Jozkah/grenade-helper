@@ -1,0 +1,259 @@
+[
+  {
+    "name": ["Olof", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-479.98977661133, 671.01641845703, -215.96875],
+    "viewangles": [-33.993881225586, -41.519023895264]
+  },
+  {
+    "name": ["Brown Halls", "Train Summit"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1159.9979248047, -1048.03125, -95.96875],
+    "viewangles": [-7.453191280365, -2.8726072311401]
+  },
+  {
+    "name": ["Dumpster", "Popdog"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-481.87252807617, 1724.9896240234, -209.96875],
+    "viewangles": [-7.0000343322754, -87.986595153809],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ladder Top", "Connector"],
+    "description": "dont forgot to break window first",
+    "weapon": "weapon_smokegrenade",
+    "position": [-672.90936279297, -543.63909912109, 16.03125],
+    "viewangles": [-42.737319946289, -7.7124428749084],
+    "duck": true
+  },
+  {
+    "name": ["Pallet", "Olof"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-811.96875, 1167.6956787109, -218.21987915039],
+    "viewangles": [-43.163528442383, -28.404476165771]
+  },
+  {
+    "name": ["Dumpster", " Train Left"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-634.53723144531, 1345.1180419922, -217.56127929688],
+    "viewangles": [-46.896553039551, -54.980995178223]
+  },
+  {
+    "name": ["Ladder Top", "Train Right"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-655.96875, -424.08639526367, 16.03125],
+    "viewangles": [-46.4704246521, 12.339252471924],
+    "grenade": {
+      "strength": 0.5
+    }
+  },
+  {
+    "name": ["Dumpster", "Train A"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-754.53747558594, 1449.6567382813, -222.57702636719],
+    "viewangles": [-8.9057159423828, -57.862632751465],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ladder Top", "Old Bombsite"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-640.02563476563, -583.92950439453, 16.03125],
+    "viewangles": [-47.114669799805, 14.6624584198]
+  },
+  {
+    "name": ["Connector", "Main"],
+    "weapon": "weapon_smokegrenade",
+    "position": [623.96875, -473.94775390625, -218.83706665039],
+    "viewangles": [-18.376502990723, 140.41529846191]
+  },
+  {
+    "name": ["Connector", "Main"],
+    "weapon": "weapon_smokegrenade",
+    "position": [603.56561279297, -292.11260986328, -215.96875],
+    "viewangles": [-4.2157564163208, 141.11373901367],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Dumpser", "Electric Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-664.21704101563, 1534.1556396484, -222.94387817383],
+    "viewangles": [-26.259214401245, -72.644500732422],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Dumpster", "Train A"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-538.62829589844, 1397.4732666016, -86.902038574219],
+    "viewangles": [-24.965301513672, -58.890277862549]
+  },
+  {
+    "name": ["Connector", "B Entry"],
+    "weapon": "weapon_smokegrenade",
+    "position": [591.77606201172, -668.55212402344, -219.5814666748],
+    "viewangles": [-17.395448684692, -179.76721191406],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Dumpster", "A1"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-538.61102294922, 1397.4641113281, -86.902038574219],
+    "viewangles": [-37.107452392578, -46.710041046143],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Hell", "Popdog"],
+    "weapon": "weapon_smokegrenade",
+    "position": [840.81549072266, 735.96875, -154.96875],
+    "viewangles": [-17.465997695923, -140.77786254883]
+  },
+  {
+    "name": ["A3", "Popdog"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1142.96875, 591.96875, -215.96875],
+    "viewangles": [-8.2581167221069, -152.75889587402],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "Conenctor (Deep)"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-832.0859375, 1522.5477294922, -222.98422241211],
+    "viewangles": [-24.269607543945, -56.304744720459],
+    "grenade": {
+      "run": 60,
+      "jump": true
+    }
+  },
+  {
+    "name": ["B Ramp", "CT Ramp"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1194.6174316406, -1720.4923095703, -278.34906005859],
+    "viewangles": [-5.5545697212219, 154.0581817627],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Spools", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-495.96875, -1473.228515625, -351.96875],
+    "viewangles": [-5.5620541572571, 23.921346664429],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Pigeons", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1276.03125, 1775.96875, -220.60737609863],
+    "viewangles": [-47.64469909668, -109.38599395752],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ladder Top", "Popdog (Popflash)"],
+    "weapon": "weapon_flashbang",
+    "position": [-755.17297363281, -184.0005645752, 16.03125],
+    "viewangles": [-49.709053039551, -91.171691894531],
+    "grenade": {
+      "strength": 0
+    }
+  },
+  {
+    "name": ["Red Train", "Popdog (Popflash)"],
+    "weapon": "weapon_flashbang",
+    "position": [410.01370239258, 163.89602661133, -216.08168029785],
+    "viewangles": [-16.632549285889, -150.26402282715]
+  },
+  {
+    "name": ["T Spawn", "Main"],
+    "weapon": "weapon_flashbang",
+    "position": [-828.70886230469, 1268.03125, -222.96875],
+    "viewangles": [-39.042484283447, -44.22749710083]
+  },
+  {
+    "name": ["Ladder Top", "Popdog (Popflash)"],
+    "weapon": "weapon_flashbang",
+    "position": [-589.00024414063, -221.65982055664, 16.03125],
+    "viewangles": [-42.259090423584, -135.19944763184],
+    "grenade": {
+      "strength": 0
+    }
+  },
+  {
+    "name": ["Brown Halls", "Train Summit"],
+    "weapon": "weapon_molotov",
+    "position": [-1146.8743896484, -1043.7691650391, -95.96875],
+    "viewangles": [13.07798576355, 4.7952747344971],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Hell", "Heaven"],
+    "weapon": "weapon_molotov",
+    "position": [840.78985595703, 735.96875, -154.96875],
+    "viewangles": [-26.857685089111, -93.933349609375]
+  },
+  {
+    "name": ["Hell", "Connector"],
+    "weapon": "weapon_molotov",
+    "position": [840.78839111328, 735.96868896484, -154.96875],
+    "viewangles": [-14.642874717712, -107.15055084229]
+  },
+  {
+    "name": ["Cloud", "Ladder"],
+    "weapon": "weapon_molotov",
+    "position": [1083.8414306641, -1725.0974121094, -209.11401367188],
+    "viewangles": [-17.181800842285, 179.86517333984],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["Hell", "Train Right"],
+    "weapon": "weapon_molotov",
+    "position": [840.79766845703, 735.96978759766, -154.96875],
+    "viewangles": [-14.558424949646, -112.75862884521]
+  },
+  {
+    "name": ["Hell", "Train Left"],
+    "weapon": "weapon_molotov",
+    "position": [840.79766845703, 735.96978759766, -154.96875],
+    "viewangles": [4.4706840515137, -118.60751342773],
+    "grenade": {
+      "strength": 0.5,
+      "delay": 7,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Sandwich", "Train A"],
+    "weapon": "weapon_molotov",
+    "position": [127.44923400879, 607.96875, -215.96875],
+    "viewangles": [-19.188571929932, -78.223022460938]
+  },
+  {
+    "name": ["Upper B", "Ladder"],
+    "weapon": "weapon_hegrenade",
+    "position": [-989.25067138672, -1637.9680175781, -151.96875],
+    "viewangles": [-10.560479164124, -19.433275222778],
+    "grenade": {
+      "run": 10
+    }
+  }
+]
