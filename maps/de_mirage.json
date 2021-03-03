@@ -11,6 +11,15 @@
     }
   },
   {
+    "name": ["Palace", "Triple Box"],
+    "weapon": "weapon_molotov",
+    "position": [91.983283996582, -2211.1640625, -39.96875],
+    "viewangles": [-2.4978857040405, 160.79487609863],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
     "name": ["t ramp", "Stairs"],
     "description": "left side (75 hp)  right side (40 hp)",
     "weapon": "weapon_hegrenade",
