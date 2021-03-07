@@ -20,8 +20,7 @@
     }
   },
   {
-    "name": ["t ramp", "Stairs"],
-    "description": "left side (75 hp)  right side (40 hp)",
+    "name": ["T Ramp", "Stairs"],
     "weapon": "weapon_hegrenade",
     "position": [921.87292480469, -1240.2354736328, -108.96875],
     "viewangles": [1.3715249300003, -162.99327087402],
