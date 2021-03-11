@@ -1,5 +1,4 @@
 [
- 
   {
     "name": ["Palace", "Under Palace"],
     "weapon": "weapon_molotov",
@@ -8,6 +7,65 @@
     "grenade": {
       "run": 80,
       "delay": 4
+    }
+  },
+  {
+    "name": ["Balcony", "Jungle"],
+    "weapon": "weapon_smokegrenade",
+    "position": [150.96896362305, -1914.03125, -39.96875],
+    "viewangles": [-22.879587173462, -130.80513000488],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Balcony", "Tetris"],
+    "weapon": "weapon_smokegrenade",
+    "position": [150.96896362305, -1914.03125, -39.96875],
+    "viewangles": [-27.570545196533, -103.16857910156],
+    "grenade": {
+      "run": 3,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Balcony", "Ramp"],
+    "weapon": "weapon_smokegrenade",
+    "position": [150.96896362305, -1914.03125, -39.96875],
+    "viewangles": [-11.578877449036, -104.14512634277],
+    "grenade": {
+      "strength": 0.5,
+      "run": 2
+    }
+  },
+  {
+    "name": ["Short", "CT"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-903.96875, -376.03125, -158.50331115723],
+    "viewangles": [-29.623641967773, -83.629814147949],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Short", "Jungle"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-903.96875, -376.03125, -158.48858642578],
+    "viewangles": [-59.893905639648, -96.133941650391]
+  },
+  {
+    "name": ["Short", "Stairs"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-903.96875, -376.03125, -158.48858642578],
+    "viewangles": [-63.497303009033, -71.565582275391]
+  },
+  {
+    "name": ["Stairs", "Palace"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-552.39239501953, -1309.0300292969, -163.96875],
+    "viewangles": [-72.430450439453, -55.177200317383],
+    "grenade": {
+      "jump": true
     }
   },
   {
