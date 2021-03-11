@@ -10,6 +10,12 @@
     }
   },
   {
+    "name": ["Window", "Window (Oneway)"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1247.9903564453, -924.03125, -167.96875],
+    "viewangles": [-36.121524810791, 58.121299743652]
+  },
+  {
     "name": ["Balcony", "Jungle"],
     "weapon": "weapon_smokegrenade",
     "position": [150.96896362305, -1914.03125, -39.96875],
