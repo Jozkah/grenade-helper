@@ -1,6 +1,6 @@
 {
     "name": "Jozkah",
-    "description": "mirage short movement", 
-    "update_timestamp": 1615828652,
+    "description": "fixed mirage movement", 
+    "update_timestamp": 1615885131,
     "url_format": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/maps/%map%.json"
 }
