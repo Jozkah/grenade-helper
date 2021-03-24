@@ -10,6 +10,13 @@
     }
   },
   {
+    "name": ["Under", "Short"],
+    "description": "BUG",
+    "weapon": "weapon_molotov",
+    "position": [-1036.9895019531, -167.89227294922, -367.96875],
+    "viewangles": [-9.4445495605469, 95.114807128906]
+  },
+  {
     "name": ["Window", "Window (Oneway)"],
     "weapon": "weapon_smokegrenade",
     "position": [-1247.9903564453, -924.03125, -167.96875],
