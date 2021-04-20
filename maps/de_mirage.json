@@ -10,6 +10,15 @@
     }
   },
   {
+    "name": ["Alley","Kitchen Window"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-160.0299987793,887.96997070313,-135.33000183105],
+    "viewangles": [-50.38,-146.49],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
     "name": ["Under", "Short"],
     "description": "BUG",
     "weapon": "weapon_molotov",
