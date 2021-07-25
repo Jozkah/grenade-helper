@@ -1537,6 +1537,124 @@
     }
   },
   {
+    "name": ["Stairs", "Stairs"],
+    "description": "Oneway",
+    "weapon": "weapon_smokegrenade",
+    "position": [-496.00372314453, -1471.0950927734, -51.883911132813],
+    "viewangles": [10.79598903656, -103.49066162109],
+    "grenade": {
+      "strength": 0
+    }
+  },
+  {
+    "name": ["T Spawn", "Market Door"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1418.7062988281, 34.746635437012, -167.96875],
+    "viewangles": [-27.230894088745, -165.96989440918],
+    "grenade": {
+      "run": 28,
+      "run_yaw": -33,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Palace Entrance", "Connector"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1280.0413818359, -1052.6046142578, -167.96875],
+    "viewangles": [-26.715753555298, -172.25297546387],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Underpass", "B Arch"],
+    "description": "Left",
+    "weapon": "weapon_smokegrenade",
+    "position": [-229.16050720215, 368.55780029297, -76.603950500488],
+    "viewangles": [-60.636245727539, -172.23492431641],
+    "duck": true
+  },
+  {
+    "name": ["Trash Can", "B Apartments Entrance"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2415.96875, -115.75730895996, -157.97093200684],
+    "viewangles": [-17.469615936279, 24.725820541382],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Ramp", "Jungle"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-31.915422439575, -1418.03125, -167.96875],
+    "viewangles": [-15.768534660339, -110.90975952148],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "Short (Deep)"],
+    "description": "Connector View",
+    "weapon": "weapon_smokegrenade",
+    "position": [1455.96875, -104.05325317383, -147.96875],
+    "viewangles": [-34.774227142334, 173.67869567871],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Side alley", "Short"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1135.96875, 647.97564697266, -261.38623046875],
+    "viewangles": [-25.704998016357, -163.03948974609],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Side Alley", "Market Window"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1135.96875, 647.99816894531, -261.38455200195],
+    "viewangles": [-20.425506591797, -163.92390441895],
+    "grenade": {
+      "run": 77,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "Jungle"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1422.96875, -55.96875, -167.96875],
+    "viewangles": [-32.315643310547, -140.80200195313],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Short", "Stairs"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-990.48266601563, 295.73477172852, -165.95147705078],
+    "viewangles": [-8.7867431640625, -73.48762512207],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Unnamed", "Stairs"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-2325.2180175781, 811.77471923828, -119.84211730957],
+    "viewangles": [-20.160720825195, -50.80553817749],
+    "grenade": {
+      "run": 8,
+      "jump": true
+    }
+  },
+  {
     "name": ["Back Alley", "Jungle"],
     "weapon": "weapon_smokegrenade",
     "position": [-463.96875, 807.96875, -71.96875],
