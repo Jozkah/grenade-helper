@@ -1,6 +1,3 @@
---[[
-dumped file helper_data.ljbc 10:27 27.08.2020 [ sshunko tools ]
-]]
 return {
 	["get"] = function(param)
 		return {
