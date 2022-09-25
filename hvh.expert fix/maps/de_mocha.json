@@ -1,0 +1,22 @@
+[
+    {
+       "name":[
+          "Unnamed",
+          "FD"
+       ],
+       "weapon":"weapon_molotov",
+       "position":[
+          3428.6022949219,
+          944.02020263672,
+          -34.347206115723
+       ],
+       "viewangles":[
+          -19.32918548584,
+          128.31327819824
+       ],
+       "grenade":{
+          "delay":19,
+          "jump":true
+       }
+    }
+ ]
