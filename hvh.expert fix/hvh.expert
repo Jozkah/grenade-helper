@@ -1,0 +1,6 @@
+{
+    "name": "hvh.expert",
+    "description": "fixed hvh.expert", 
+    "update_timestamp": 1664115722,
+    "url_format": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/maps/%map%.json"
+}
