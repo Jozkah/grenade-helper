@@ -647,6 +647,15 @@
     }
   },
   {
+    "name": ["Palace", "Firebox"],
+    "weapon": "weapon_hegrenade",
+    "position": [107.18858337402, -2375.96875, -39.96875],
+    "viewangles": [17.616968154907, 114.92967224121],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
     "name": ["Palace", "A Boxes"],
     "weapon": "weapon_hegrenade",
     "position": [16.031322479248, -2237.4321289063, -39.96875],
