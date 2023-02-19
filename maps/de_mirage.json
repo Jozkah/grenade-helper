@@ -2606,5 +2606,381 @@
         "frames":[[0,0],1],
       "fov":0.12
     }
+  },
+  {
+    "name":["B Apps","Site"],
+    "weapon":"weapon_sg556",
+    "position":[-1025.0107421875,486.48593139648,-79.96875],
+    "viewangles":[4.6759672164917,-169.51947021484],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["B Apps","Car"],
+    "weapon":"weapon_sg556",
+    "position":[-1038.0153808594,390.00903320313,-79.96875],
+    "viewangles":[0.16111518442631,168.75866699219],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Balcony","Tetris"],
+    "weapon":"weapon_sg556",
+    "position":[87.996742248535,-2092.8518066406,-167.96875],
+    "viewangles":[-6.2187487602234,108.63596191406],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Balcony","Tetris"],
+    "weapon":"weapon_sg556",
+    "position":[87.976196289063,-2165.96875,-110.2325668335],
+    "viewangles":[-3.4544544219971,106.68520355225],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Ticket","Default"],
+    "weapon":"weapon_sg556",
+    "position":[-902.03125,-2603.0808105469,-167.96875],
+    "viewangles":[0.22621816396713,35.30583190918],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Palace","Palace"],
+    "weapon":"weapon_sg556",
+    "position":[150.96896362305,-1914.03125,-167.96875],
+    "viewangles":[-15.431600570679,-105.93022918701],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Palace","Palace"],
+    "weapon":"weapon_sg556",
+    "position":[40.421924591064,-1922.03125,-167.96875],
+    "viewangles":[-16.526073455811,-92.091827392578],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Palace","Under Palace"],
+    "weapon":"weapon_sg556",
+    "position":[20.021514892578,-2355.5627441406,-39.96875],
+    "viewangles":[15.197627067566,72.468055725098],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Palace","Under Palace"],
+    "weapon":"weapon_sg556",
+    "position":[16.03125,-2358.0056152344,-39.96875],
+    "viewangles":[17.498443603516,69.589225769043],
+    "movement":{
+        "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["B Apps","Site"],
+    "weapon":"weapon_m4a1_silencer",
+    "position":[-1025.0107421875,486.48593139648,-79.96875],
+    "viewangles":[4.6759672164917,-169.51947021484],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["B Apps","Car"],
+    "weapon":"weapon_m4a1_silencer",
+    "position":[-1038.0153808594,390.00903320313,-79.96875],
+    "viewangles":[0.16111518442631,168.75866699219],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Balcony","Tetris"],
+    "weapon":"weapon_m4a1_silencer",
+    "position":[87.996742248535,-2092.8518066406,-167.96875],
+    "viewangles":[-6.2187487602234,108.63596191406],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Balcony","Tetris"],
+    "weapon":"weapon_m4a1_silencer",
+    "position":[87.976196289063,-2165.96875,-110.2325668335],
+    "viewangles":[-3.4544544219971,106.68520355225],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Ticket","Default"],
+    "weapon":"weapon_m4a1_silencer",
+    "position":[-902.03125,-2603.0808105469,-167.96875],
+    "viewangles":[0.22621816396713,35.30583190918],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Palace","Palace"],
+    "weapon":"weapon_m4a1_silencer",
+    "position":[150.96896362305,-1914.03125,-167.96875],
+    "viewangles":[-15.431600570679,-105.93022918701],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Palace","Palace"],
+    "weapon":"weapon_m4a1_silencer",
+    "position":[40.421924591064,-1922.03125,-167.96875],
+    "viewangles":[-16.526073455811,-92.091827392578],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Palace","Under Palace"],
+    "weapon":"weapon_m4a1_silencer",
+    "position":[20.021514892578,-2355.5627441406,-39.96875],
+    "viewangles":[15.197627067566,72.468055725098],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Palace","Under Palace"],
+    "weapon":"weapon_m4a1_silencer",
+    "position":[16.03125,-2358.0056152344,-39.96875],
+    "viewangles":[17.498443603516,69.589225769043],
+    "movement":{
+        "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["B Apps","Site"],
+    "weapon":"weapon_galilar",
+    "position":[-1025.0107421875,486.48593139648,-79.96875],
+    "viewangles":[4.6759672164917,-169.51947021484],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["B Apps","Car"],
+    "weapon":"weapon_galilar",
+    "position":[-1038.0153808594,390.00903320313,-79.96875],
+    "viewangles":[0.16111518442631,168.75866699219],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Balcony","Tetris"],
+    "weapon":"weapon_galilar",
+    "position":[87.996742248535,-2092.8518066406,-167.96875],
+    "viewangles":[-6.2187487602234,108.63596191406],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Balcony","Tetris"],
+    "weapon":"weapon_galilar",
+    "position":[87.976196289063,-2165.96875,-110.2325668335],
+    "viewangles":[-3.4544544219971,106.68520355225],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Ticket","Default"],
+    "weapon":"weapon_galilar",
+    "position":[-902.03125,-2603.0808105469,-167.96875],
+    "viewangles":[0.22621816396713,35.30583190918],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Palace","Palace"],
+    "weapon":"weapon_galilar",
+    "position":[150.96896362305,-1914.03125,-167.96875],
+    "viewangles":[-15.431600570679,-105.93022918701],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Palace","Palace"],
+    "weapon":"weapon_galilar",
+    "position":[40.421924591064,-1922.03125,-167.96875],
+    "viewangles":[-16.526073455811,-92.091827392578],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Palace","Under Palace"],
+    "weapon":"weapon_galilar",
+    "position":[20.021514892578,-2355.5627441406,-39.96875],
+    "viewangles":[15.197627067566,72.468055725098],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Palace","Under Palace"],
+    "weapon":"weapon_galilar",
+    "position":[16.03125,-2358.0056152344,-39.96875],
+    "viewangles":[17.498443603516,69.589225769043],
+    "movement":{
+        "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["B Apps","Site"],
+    "weapon":"weapon_famas",
+    "position":[-1025.0107421875,486.48593139648,-79.96875],
+    "viewangles":[4.6759672164917,-169.51947021484],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["B Apps","Car"],
+    "weapon":"weapon_famas",
+    "position":[-1038.0153808594,390.00903320313,-79.96875],
+    "viewangles":[0.16111518442631,168.75866699219],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Balcony","Tetris"],
+    "weapon":"weapon_famas",
+    "position":[87.996742248535,-2092.8518066406,-167.96875],
+    "viewangles":[-6.2187487602234,108.63596191406],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Balcony","Tetris"],
+    "weapon":"weapon_famas",
+    "position":[87.976196289063,-2165.96875,-110.2325668335],
+    "viewangles":[-3.4544544219971,106.68520355225],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Ticket","Default"],
+    "weapon":"weapon_famas",
+    "position":[-902.03125,-2603.0808105469,-167.96875],
+    "viewangles":[0.22621816396713,35.30583190918],
+    "duck":true,
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Palace","Palace"],
+    "weapon":"weapon_famas",
+    "position":[150.96896362305,-1914.03125,-167.96875],
+    "viewangles":[-15.431600570679,-105.93022918701],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Under Palace","Palace"],
+    "weapon":"weapon_famas",
+    "position":[40.421924591064,-1922.03125,-167.96875],
+    "viewangles":[-16.526073455811,-92.091827392578],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Palace","Under Palace"],
+    "weapon":"weapon_famas",
+    "position":[20.021514892578,-2355.5627441406,-39.96875],
+    "viewangles":[15.197627067566,72.468055725098],
+    "movement":{
+      "frames":[[0,0],1],
+      "fov":0.12
+    }
+  },
+  {
+    "name":["Palace","Under Palace"],
+    "weapon":"weapon_famas",
+    "position":[16.03125,-2358.0056152344,-39.96875],
+    "viewangles":[17.498443603516,69.589225769043],
+    "movement":{
+        "frames":[[0,0],1],
+      "fov":0.12
+    }
   }
 ]
