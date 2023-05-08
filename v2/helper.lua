@@ -2720,7 +2720,6 @@ local function on_paint_saving(local_player, weapon, screen_width, screen_height
     local saving_hotkey = ui.get(saving_hotkey_reference)
 
     if ui.get(saving_teleporthotkey_reference) then
-        print("a")
         on_saving_teleport()
     end
 
