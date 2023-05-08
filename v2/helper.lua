@@ -1,6 +1,11 @@
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local loadstring, tostring, assert, require, setmetatable, type, pairs, ipairs, pcall, error, tonumber, select, unpack =
     loadstring, tostring, assert, require, setmetatable, type, pairs, ipairs, pcall, error, tonumber, select, unpack
+--[[Original Code by sapphyrus]]--
+-- [ sshunko  &  es3n1n tools ] + kitty grenade fixes
+-- update  22:56 11.09.2020
+-- super small json pretty print
+-- based on https://github.com/bungle/lua-resty-prettycjson/blob/master/lib/resty/prettycjson.lua and https://github.com/bungle/lua-resty-prettycjson/blob/master/lib/resty/prettycjson.lua
 local json_encode_pretty
 do
     local a, b, c, d, e = string.byte, string.find, string.format, string.gsub, string.match;
@@ -1423,7 +1428,9 @@ ui.set_callback(silent_enabled_reference, function(c)
 end)
 local saving_enabled_reference = ui.new_checkbox("LUA", "B", "Helper saving")
 local saving_hotkey_reference = ui.new_hotkey("LUA", "B", "Helper saving hotkey", true)
+ui.new_label("LUA", "B", "From")
 local saving_from_reference = ui.new_textbox("LUA", "B", "From")
+ui.new_label("LUA", "B", "To")
 local saving_to_reference = ui.new_textbox("LUA", "B", "To")
 local saving_type_reference = ui.new_combobox("LUA", "B", "Type", {"Grenade", "Wallbang: HvH", "Movement"})
 local saving_properties_reference = ui.new_multiselect("LUA", "B", "Properties", {"Jump", "Run", "Tickrate"})
@@ -1661,6 +1668,7 @@ end
 local movement_saving_hotkey_prev, movement_play_location, movement_play_prev, movement_play_index,
     movement_play_frame_progress
 local saving_location, grenade_thrown_at, grenade_entindex
+
 local function on_saving_teleport()
     if saving_location ~= nil then
         client.exec("setpos_exact ", saving_location.x, " ", saving_location.y, " ", saving_location.z, "; setang ",
@@ -1668,6 +1676,7 @@ local function on_saving_teleport()
     end
 end
 local saving_teleport_reference = ui.new_button("LUA", "B", "  Teleport to current location  ", on_saving_teleport)
+local saving_teleporthotkey_reference = ui.new_hotkey("LUA", "B", "Teleport to current location key", true)
 
 local function on_saving_export(c) -- prop saved : "destroyText","destroyStartX","destroyStartY","destroyStartZ","destroyX","destroyY","destroyZ"
     local props_saved = {"map", "from", "to", "type", "weapon", "tickrate", "x", "y", "z", "pitch", "yaw", "throwType",
@@ -1800,6 +1809,7 @@ function on_saving_enabled_changed()
     ui.set_visible(saving_type_reference, saving_enabled)
     ui.set_visible(saving_properties_reference, saving_enabled)
     ui.set_visible(saving_teleport_reference, saving_enabled)
+    ui.set_visible(saving_teleporthotkey_reference, saving_enabled)
     ui.set_visible(saving_update_file_reference, saving_enabled)
     ui.set_visible(saving_import_reference, saving_enabled)
     ui.set_visible(saving_export_reference, saving_enabled)
@@ -2478,7 +2488,7 @@ local function on_setup_command(cmd)
             (cmd.in_forward == 1 or cmd.in_back == 1 or cmd.in_moveleft == 1 or cmd.in_moveright == 1 or true) then
             if ui.get(airstrafe_reference) then
                 airstrafe_disabled = true
-                ui.set(airstrafe_reference, false)
+                ui.set(airstrafe_reference, true)
             end
             if ui.get(aa_reference) then
                 aa_disabled = true
@@ -2713,6 +2723,11 @@ local function on_paint_saving(local_player, weapon, screen_width, screen_height
     local create_location = false
 
     local saving_hotkey = ui.get(saving_hotkey_reference)
+
+    if ui.get(saving_teleporthotkey_reference) then
+        print("a")
+        on_saving_teleport()
+    end
 
     if saving_hotkey and not saving_hotkey_prev then
         if location_type == "grenade" then
