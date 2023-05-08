@@ -1,11 +1,6 @@
 -- local variables for API functions. any changes to the line below will be lost on re-generation
 local loadstring, tostring, assert, require, setmetatable, type, pairs, ipairs, pcall, error, tonumber, select, unpack =
     loadstring, tostring, assert, require, setmetatable, type, pairs, ipairs, pcall, error, tonumber, select, unpack
---[[Original Code by sapphyrus]]--
--- [ sshunko  &  es3n1n tools ] + kitty grenade fixes
--- update  22:56 11.09.2020
--- super small json pretty print
--- based on https://github.com/bungle/lua-resty-prettycjson/blob/master/lib/resty/prettycjson.lua and https://github.com/bungle/lua-resty-prettycjson/blob/master/lib/resty/prettycjson.lua
 local json_encode_pretty
 do
     local a, b, c, d, e = string.byte, string.find, string.format, string.gsub, string.match;
@@ -2488,7 +2483,7 @@ local function on_setup_command(cmd)
             (cmd.in_forward == 1 or cmd.in_back == 1 or cmd.in_moveleft == 1 or cmd.in_moveright == 1 or true) then
             if ui.get(airstrafe_reference) then
                 airstrafe_disabled = true
-                ui.set(airstrafe_reference, true)
+                ui.set(airstrafe_reference, false)
             end
             if ui.get(aa_reference) then
                 aa_disabled = true
