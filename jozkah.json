@@ -2,14 +2,5 @@
     "name": "Jozkah",
     "description": "Jozkah#0001", 
     "update_timestamp": 1676814595,
-    "url_format": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/maps/%map%.json" //DO NOT COPY THIS URL TO IMPORT
-    
-    // in order to import this source, use the URL you're using to open this page
-   
-    // or simply copy this one
-    // https://raw.githubusercontent.com/Jozkah/grenade-helper/main/jozkah.json
-    // go to LUA -> A
-    // + Add remove source
-    // Import from clipboard   
-    
+    "url_format": "https://raw.githubusercontent.com/Jozkah/grenade-helper/main/maps/%map%.json"    
 }
